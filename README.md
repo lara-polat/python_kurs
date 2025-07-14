@@ -46,6 +46,7 @@ pip install -r requirements.txt
 Datenquelle: [GESIS – ZA6720 „Intensivnutzer sozialer Medien“](https://search.gesis.org/research_data/ZA6720)
 
 ---
+## Visualisierungen (Auszug)
 
 ### Verteilung der Teilnehmenden nach Bundesland
 
@@ -56,8 +57,6 @@ Anteil der Befragten je Bundesland in relativen Häufigkeiten.
 </p>
 
 ---
-
-## Visualisierungen (Auszug)
 
 ### Nutzung klassischer Medien & politisches Interesse
 
