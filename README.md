@@ -1,1 +1,1 @@
-# python_kurs
+# Politisches Interesse, Vertrauen in politische Inhalte und Demokratiezufriedenheit 
