@@ -47,6 +47,16 @@ Datenquelle: [GESIS – ZA6720 „Intensivnutzer sozialer Medien“](https://sea
 
 ---
 
+### Verteilung der Teilnehmenden nach Bundesland
+
+Anteil der Befragten je Bundesland in relativen Häufigkeiten.
+
+<p align="center">
+  <img src="figures/karte_anteile_bundeslaender.png" width="500"/>
+</p>
+
+---
+
 ## Visualisierungen (Auszug)
 
 ### Nutzung klassischer Medien & politisches Interesse
@@ -55,16 +65,6 @@ Untersuchung des Zusammenhangs zwischen politischem Interesse und klassischer Me
 
 <p align="center">
   <img src="figures/mediennutzung_pol_interesse.png" width="650"/>
-</p>
-
----
-
-### Verteilung der Teilnehmenden nach Bundesland
-
-Anteil der Befragten je Bundesland in relativen Häufigkeiten.
-
-<p align="center">
-  <img src="figures/karte_anteile_bundeslaender.png" width="500"/>
 </p>
 
 ---
