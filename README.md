@@ -46,6 +46,14 @@ pip install -r requirements.txt
 Datenquelle: [GESIS – ZA6720 „Intensivnutzer sozialer Medien“](https://search.gesis.org/research_data/ZA6720)
 
 ---
+## Forschungsleitendes Modell
+
+<p align="center">
+  <img src="figures/forschungsmodell.png" width="500"/>
+</p>
+
+
+---
 ## Visualisierungen (Auszug)
 
 ### Verteilung der Teilnehmer:innen nach Bundesland
